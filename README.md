@@ -15,5 +15,7 @@ In the 'Code Files' folder, you will find Jupyter notebooks corresponding to the
 
 
 
-
+## Dataset Sources that Helped this Research
+- Lyons MJ. “Excavating AI” re-excavated: Debunking a fallacious account of the JAFFE dataset [Internet]. arXiv [cs.CY]. 2021 [cited 2023 Jul 1]. Available from: http://arxiv.org/abs/2107.13998
+- Lyons MJ. “Excavating AI” re-excavated: Debunking a fallacious account of the JAFFE dataset [Internet]. arXiv [cs.CY]. 2021 [cited 2023 Jul 1]. Available from: http://arxiv.org/abs/2107.13998
 
