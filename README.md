@@ -14,8 +14,6 @@ In the 'Code Files' folder, you will find Jupyter notebooks corresponding to the
 - Additionally, there is a 'Statistics' folder that contains Excel sheets used for conducting analysis and presenting the results in the research paper.
 
 
-## All the H5 Models trained for this Research Project
 
-[Google Drive Link](https://drive.google.com/drive/folders/1-EMowRI03Z2QSs9rVFa4inhHDZDsC-PH?usp=drive_link)
 
 
